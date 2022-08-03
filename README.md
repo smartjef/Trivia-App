@@ -47,3 +47,13 @@ Pay special attention to what data the frontend is expecting from each API respo
 By making notes ahead of time, you will practice the core skill of being able to read and understand code and will have a simple plan to follow to build out the endpoints of your backend API.
 
 > View the [Frontend README](./frontend/README.md) for more details.
+
+> Screenshots of the app
+
+![FIrst](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0t85e1vynmzlu68pk8z0.png)
+
+![Second](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xptqg46gbu7ma26lfuro.png)
+
+![Third](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0bil67p5zrc0s6igl7td.png)
+
+![Forth](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tzudott86r1xrfg2j6ir.png)
